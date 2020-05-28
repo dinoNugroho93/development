@@ -1,2 +1,2 @@
 # development
-console.log("Hello react native")
+console.log("Hello react native") react
